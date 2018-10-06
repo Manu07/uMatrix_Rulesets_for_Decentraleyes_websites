@@ -1,0 +1,14 @@
+! Title: Rulesets for Decentraleyes websites
+! Maintainer: Le Merovingien
+
+* ajax.aspnetcdn.com script allow
+* ajax.googleapis.com script allow
+* ajax.microsoft.com script allow
+* cdn.jsdelivr.net script allow
+* cdnjs.cloudflare.com script allow
+* code.jquery.com script allow
+* lib.sinaapp.com script allow
+* libs.baidu.com script allow
+* upcdn.b0.upaiyun.com script allow
+* yandex.st script allow
+* yastatic.net script allow
